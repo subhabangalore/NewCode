@@ -1,2 +1,2 @@
 # NewCode
-I am trying to learn Github
+I am a Computational Linguist. I work in Indian languages. 
